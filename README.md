@@ -97,23 +97,6 @@ Applying SOLID principles, clean code practices, and established design patterns
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anoirbs&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anoirbs&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoirbs&layout=compact&hide_border=true&langs_count=8&title_color=1F3864&text_color=333333" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## Let's Connect
 
 📫 **anoir.benslama@outlook.com** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ben-slama-mohamed-anoir/) &nbsp;·&nbsp; 📍 Tunis, Tunisia
