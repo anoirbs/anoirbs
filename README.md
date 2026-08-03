@@ -14,7 +14,7 @@
 
 I'm a **Full Stack Developer and Team Lead** with 3+ years of experience designing, building, and shipping production web applications end to end — from React/Angular front ends to Node.js/NestJS and Java/Spring Boot back ends, deployed on cloud-native infrastructure.
 
-I currently lead a team of **5 engineers** at Wattzhub, where I drove the migration of a monolithic backend to a Kubernetes-based microservices architecture and rebuilt production database infrastructure for high availability.
+I've led backend migrations from monolithic architectures to Kubernetes-based microservices, and built distributed database infrastructure for high availability.
 
 <table>
 <tr>
@@ -24,7 +24,7 @@ I currently lead a team of **5 engineers** at Wattzhub, where I drove the migrat
 TypeScript/JavaScript, Node.js, NestJS, React, Next.js, Angular, Java, Spring Boot, React Native
 
 **👥 Team Leadership**
-Leading a 5-engineer team, owning architecture decisions and delivery across international projects
+Owning architecture decisions and delivery across international projects
 
 </td>
 <td width="50%" valign="top">
@@ -40,6 +40,34 @@ Azure & AWS administration, Linux server management, PKI, SSL/TLS, RBAC, OAuth2
 </table>
 
 > 🔌 **Domain experience:** electric vehicle charging platforms (OCPP, OCPI, OICP, ISO 15118) and real-time IoT telemetry (MQTT, Kafka, TimescaleDB)
+
+<br/>
+
+## Featured Projects
+
+**⚡ CPO / eMSP Charging Platform**
+Multi-tenant EV charging management platform integrating OCPP 1.6/2.0.1, OCPI, OICP, and ISO 15118 Plug & Charge, with e-wallet payments and smart charging optimization. Migrated the backend from a single-node monolith to a Kubernetes-based microservices architecture (dedicated REST API, OCPP, OICP, OCPI, and Scheduler services).
+`Node.js` `NestJS` `Kubernetes` `MongoDB` `OCPP` `OCPI` `OICP` `ISO 15118`
+
+**🔋 Flexee — Energy Distribution Platform**
+Kafka-driven, container-orchestrated microservices platform distributing energy from a distribution network operator down to individual buildings, with infrastructure fully provisioned via Terraform.
+`NestJS` `Kafka` `Docker` `Terraform`
+
+**📊 EMBS — Energy Management & Battery Supervision System**
+IoT platform monitoring 1,000+ battery units from BMS down to individual cell level, with a custom dashboard-driven RBAC system for role-based access.
+`React` `Angular` `TimescaleDB` `RBAC`
+
+**🌐 Medge Network — Edge IoT Gateway**
+Multi-tenant, low-latency edge gateway for EV charging infrastructure with sub-second telemetry pipelines and high availability.
+`WebSockets` `MQTT` `TimescaleDB` `MongoDB` `Docker Swarm`
+
+**🤖 Ask-Innovation — AI Voice & Chat Assistant**
+White-label AI-powered voice/chat assistant with a SaaS subscription portal, usage-based billing, and automated support workflows — cut support load by 90%.
+`Lago` `Stripe` `n8n` `Chatwoot`
+
+**🚗 EV Fleet Charging Management (Graduation Project)**
+3-tier EV charging management platform with live supervision dashboards, session control, and a load-optimization algorithm to minimize consumption peaks. RESTful API + Angular interface for fleet operators.
+`Java` `Spring Boot` `Hibernate` `MongoDB` `Angular` `OpenAPI`
 
 <br/>
 
