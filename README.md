@@ -43,31 +43,31 @@ Azure & AWS administration, Linux server management, PKI, SSL/TLS, RBAC, OAuth2
 
 <br/>
 
-## Featured Projects
+## What I Build
 
-**⚡ CPO / eMSP Charging Platform**
-Multi-tenant EV charging management platform integrating OCPP 1.6/2.0.1, OCPI, OICP, and ISO 15118 Plug & Charge, with e-wallet payments and smart charging optimization. Migrated the backend from a single-node monolith to a Kubernetes-based microservices architecture (dedicated REST API, OCPP, OICP, OCPI, and Scheduler services).
-`Node.js` `NestJS` `Kubernetes` `MongoDB` `OCPP` `OCPI` `OICP` `ISO 15118`
+**🏗️ Microservices & Distributed Systems**
+Decomposing monolithic backends into independent, single-responsibility services; container orchestration with Kubernetes and Docker Swarm; event-driven communication with Kafka and MQTT for real-time data pipelines.
+`Kubernetes` `Docker` `Kafka` `MQTT` `NestJS` `Node.js`
 
-**🔋 Flexee — Energy Distribution Platform**
-Kafka-driven, container-orchestrated microservices platform distributing energy from a distribution network operator down to individual buildings, with infrastructure fully provisioned via Terraform.
-`NestJS` `Kafka` `Docker` `Terraform`
+**⚙️ API Design & Integration**
+RESTful and OpenAPI-documented services, WebSocket-based real-time interfaces, and AsyncAPI for event-driven contracts, integrated with third-party billing, automation, and support platforms.
+`REST` `OpenAPI` `WebSocket` `AsyncAPI` `Stripe` `n8n`
 
-**📊 EMBS — Energy Management & Battery Supervision System**
-IoT platform monitoring 1,000+ battery units from BMS down to individual cell level, with a custom dashboard-driven RBAC system for role-based access.
-`React` `Angular` `TimescaleDB` `RBAC`
+**🔐 Security & Access Control**
+Custom RBAC systems with dashboard-driven role creation, JWT/OAuth 2.0 authentication, Keycloak/Auth0 identity management, PKI, SSL/TLS, and SSH/firewall hardening across production servers.
+`RBAC` `JWT` `OAuth2` `Keycloak` `PKI` `SSL/TLS`
 
-**🌐 Medge Network — Edge IoT Gateway**
-Multi-tenant, low-latency edge gateway for EV charging infrastructure with sub-second telemetry pipelines and high availability.
-`WebSockets` `MQTT` `TimescaleDB` `MongoDB` `Docker Swarm`
+**☁️ Cloud Infrastructure & DevOps**
+Infrastructure as code with Terraform, configuration management with Ansible, CI/CD pipelines in GitLab, and observability with Prometheus/Grafana across AWS and Azure environments.
+`Terraform` `Ansible` `GitLab CI/CD` `Prometheus` `Grafana` `AWS` `Azure`
 
-**🤖 Ask-Innovation — AI Voice & Chat Assistant**
-White-label AI-powered voice/chat assistant with a SaaS subscription portal, usage-based billing, and automated support workflows — cut support load by 90%.
-`Lago` `Stripe` `n8n` `Chatwoot`
+**🗄️ Data & Database Engineering**
+Designing distributed, high-availability database architectures — replica sets, continuous backup and point-in-time recovery strategies, and time-series storage for high-volume telemetry.
+`MongoDB` `TimescaleDB` `PostgreSQL` `Redis`
 
-**🚗 EV Fleet Charging Management (Graduation Project)**
-3-tier EV charging management platform with live supervision dashboards, session control, and a load-optimization algorithm to minimize consumption peaks. RESTful API + Angular interface for fleet operators.
-`Java` `Spring Boot` `Hibernate` `MongoDB` `Angular` `OpenAPI`
+**🧩 Design Principles & Code Quality**
+Applying SOLID principles, clean code practices, and established design patterns to keep systems maintainable as they scale.
+`SOLID` `Clean Code` `Design Patterns`
 
 <br/>
 
